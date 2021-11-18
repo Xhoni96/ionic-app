@@ -1,0 +1,8 @@
+{
+  "name": "First ionic app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "2e4c3fc5"
+}
